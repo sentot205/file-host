@@ -1,3 +1,9 @@
+# This hosts file is a modified version from reputable sources
+# Project home page: https://unblockhostid.github.io
+# Hosts contributed by gvoze32
+# ====================================
+# Start UNBLOCKHOSTID
+# ====================================
 # Copyright (c) 1993-2009 Microsoft Corp.
 # This is a sample HOSTS file used by Microsoft TCP/IP for Windows.
 #
@@ -1552,3 +1558,12 @@
 
 # [Github]
 140.82.114.4 github.com
+
+# [4porn]
+188.72.227.100 4porn.com
+
+# [Sunporn]
+35.186.238.101 sunporn.com
+
+# [Youstrip]
+51.81.115.37 youstrip.com
